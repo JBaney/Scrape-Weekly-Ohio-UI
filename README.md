@@ -1,2 +1,2 @@
 # Scrape Weekly Ohio UI
- Scrape Weekly Ohio UI Claims by County
+ R Script that Scrapes and Tidys data from PDFs from https://ohiolmi.com/Home/UIClaims
